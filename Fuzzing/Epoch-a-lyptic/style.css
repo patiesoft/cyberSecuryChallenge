@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+  background-color: #121212;
+}
+
+#clock {
+  font-family: 'Orbitron', sans-serif;
+  color: #66ff99;
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+#output {
+  font-family: 'Orbitron', sans-serif;
+  color: #66ff99;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+
+#form {
+  font-family: 'Orbitron', sans-serif;
+  color: #66ff99;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+.form-submit-button {
+
+font-family: 'Orbitron', sans-serif;
+
+background: #66ff99;
+
+font-size: 20px;
+
+color: #000;
+
+border: 1px solid #eee;
+
+border-radius: 25px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}
+
+.form-submit-button:hover {
+
+font-family: 'Orbitron', sans-serif;
+
+background: #55ee55;
+
+font-size: 20px;
+
+color: #111;
+
+border: 1px solid #eee;
+
+border-radius: 25px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}

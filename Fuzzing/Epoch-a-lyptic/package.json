@@ -1,0 +1,18 @@
+{
+  "name": "epoch-a-lyptic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node nodescript.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jimp": "^0.16.1",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
+  }
+}
