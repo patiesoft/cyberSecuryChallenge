@@ -1,0 +1,5 @@
+Additional files have been hidden in the file called Einstein.jpg, using the tool steghide. 
+
+However in order to extract the file from Einstein.jpg, a password is required. 
+
+The password can be obtained by using Einstein’s famous equation on the other two image files to Calculate the value of Energy.

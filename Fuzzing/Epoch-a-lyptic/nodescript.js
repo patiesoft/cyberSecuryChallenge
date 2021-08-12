@@ -5,10 +5,10 @@ const fs = require("fs");
 var data = fs.readFileSync("codes.txt", "utf8").replace(/\r\n/g, "\n").split("\n");
 
 
-const chunk1
-const chunk1
-const chunk1
-const chunk1
+// const chunk1
+// const chunk1
+// const chunk1
+// const chunk1
 
 const config = {
 	headers: {
@@ -27,10 +27,10 @@ const config = {
 		connection: "keep-alive",
 		host: "46.101.134.129",
 	},
-		proxy: {
-        host: 'proxy02.uniswa.sz',
-        port: 3128,
-    },
+	// 	proxy: {
+    //     host: 'proxy02.uniswa.sz',
+    //     port: 3128,
+    // },
 };
 let url = "http://46.101.134.129/epoch/epoch-a-lyptic.php";
 
